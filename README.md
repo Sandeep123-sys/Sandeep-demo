@@ -1,4 +1,4 @@
 # Sandeep-demo
 This is My first Git Repository 
 <br>
-Author-Sandeep Singh Mehta
+Author-Sandeep Singh (graphic era)
